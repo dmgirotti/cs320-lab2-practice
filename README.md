@@ -1,1 +1,3 @@
-# cs320-lab2-practice
+# Rusty & Co.
+
+We take donations in the form of greenies.
